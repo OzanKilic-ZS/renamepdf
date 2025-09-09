@@ -1,0 +1,2264 @@
+{
+	"companies": [
+		{
+			"name": "Allpaletty_GmbH",
+			"metrics": {
+                "name": [
+                    "Allpaletty"
+                ],
+                "invoice": "Rechnungs-Nr.: <N5>",
+                "credit": "Gutschrift-Nr.: <N5>"
+			}
+		},
+        {
+			"name": "ABV_GmbH",
+			"metrics": {
+                "name": [
+                    "ABV GmbH"
+                ],
+                "invoice": "A <N6>"
+			}
+		},
+        {
+			"name": "Akar_GmbH",
+			"metrics": {
+                "name": [
+                    "Akar GmbH"
+                ],
+                "invoice": "Rechnung  <N4>-<N7>"
+			}
+		},
+        {
+			"name": "Alltrans_Hauf",
+			"metrics": {
+                "name": [
+                    "alltrans-hauf@t-online.de"
+                ],
+                "invoice": "R E C H N U N G  Nr. <N6>"
+            }
+		},
+        {
+			"name": "Almira_Polen",
+			"metrics": {
+                "name": [
+                    "Firma Almira Polen SP. z o.o"
+                ],
+                "invoice": "Rechnungs-Nr.: <N7>"
+            }
+		},
+        {
+			"name": "Firma_Almira_Holz_GmbH",
+			"metrics": {
+                "name": [
+                    "Firma Almira Holz GmbH"
+                ],
+                "invoice": "Belegnummer: <N7>"
+            }
+		},
+        {
+			"name": "AsA_Arbeitsschutz_AG",
+			"metrics": {
+                "name": [
+                    "AsA Arbeitsschutz AG"
+                ],
+                "invoice": "Rechnung Nr.: <N6>"
+            }
+		},
+        {
+			"name": "ATG_Palettenhandel",
+			"metrics": {
+                "name": [
+                    "ATG Palettenhandel"
+                ],
+                "invoice": "Rechnungsnummer: <RE<N7>>"
+            }
+		},
+        {
+			"name": "Barth_Datenschutz",
+			"metrics": {
+                "name": [
+                    "Barth Datenschutz"
+                ],
+                "invoice": "Rechnungsnummer <REGDS-<N6>>"
+            }
+		},
+        {
+			"name": "BeA_GmbH",
+			"metrics": {
+                "name": [
+                    "BeA GmbH"
+                ],
+                "invoice": "Rechnung <N8>"
+            }
+		},
+        {
+			"name": "BIEN_HOLZ_GmbH",
+			"metrics": {
+                "name": [
+                    "BIEN-HOLZ GmbH"
+                ],
+                "invoice": "<N10>"
+            }
+		},
+        {
+			"name": "Binderholz_Oberrot",
+			"metrics": {
+                "name": [
+                    "Binderholz Oberrot"
+                ],
+                "invoice": "<N8>"
+            }
+		},
+        {
+			"name": "Blanco",
+			"metrics": {
+                "name": [
+                    "PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWE"
+                ],
+                "invoice": "Faktura - dostawa wewnątrzwspólnotowa <WORD>"
+            }
+		},
+        {
+			"name": "BNC_Boehm_Nutzfahrzeug_Center_GmbH",
+			"metrics": {
+                "name": [
+                    "BNC Böhm Nutzfahrzeug Center GmbH"
+                ],
+                "invoice": "Rechnung Teileverkauf <N10>"
+            }
+		},
+        {
+			"name": "BNC_Boehm_Nutzfahrzeug_Center_GmbH",
+			"metrics": {
+                "name": [
+                    "BNC Böhm Nutzfahrzeug Center GmbH"
+                ],
+                "invoice": "Rechnung <N10>"
+            }
+		},
+        {
+			"name": "BNC_Boehm_Nutzfahrzeug_Center_GmbH",
+			"metrics": {
+                "name": [
+                    "BNC Böhm Nutzfahrzeug Center GmbH"
+                ],
+                "invoice": "",
+                "credit": "(Gutschrift) <N10>"
+            }
+		},
+        {
+			"name": "BTL_Paletten_Express_GmbH",
+			"metrics": {
+                "name": [
+                    "BTL Paletten Express GmbH"
+                ],
+                "invoice": "Rechnung Nr. <RE-<N4>>"
+            }
+		},
+        {
+			"name": "Circle_K_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "Circle K Deutschland GmbH"
+                ],
+                "invoice": "D<N7>"
+            }
+		},
+        {
+			"name": "Circle_K_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "Circle K Deutschland GmbH"
+                ],
+                "invoice": "DEUTSCHLAND - N° D<N7>"
+            }
+		},
+        {
+			"name": "DD_Stahlhandel_GmbH",
+			"metrics": {
+                "name": [
+                    "DD-Stahlhandel GmbH"
+                ],
+                "invoice": "RECHNUNG <N7>"
+            }
+		},
+        {
+			"name": "Deutsche_Paletten_Service_GmbH",
+			"metrics": {
+                "name": [
+                    "DeutschePalettenService GmbH"
+                ],
+                "invoice": "Rechnung Nr. <N6>"
+            }
+		},
+        {
+			"name": "DM_Stahl_GmbH",
+			"metrics": {
+                "name": [
+                    "DM Stahl GmbH"
+                ],
+                "invoice": "Rechnung Nr.: <N7>"
+            }
+		},
+        {
+			"name": "DPL_GmbH",
+			"metrics": {
+                "name": [
+                    "Konto: 321 368 42 00"
+                ],
+                "invoice": "RECHNUNG <WORD>"
+            }
+		},
+        {
+			"name": "DomainFactory_GmbH",
+			"metrics": {
+                "name": [
+                    "DomainFactory GmbH"
+                ],
+                "invoice": "Rechnung Nr. <N8>"
+            }
+		},
+        {
+			"name": "Durmaz_Handels_GmbH",
+			"metrics": {
+                "name": [
+                    "Durmaz Handels GmbH"
+                ],
+                "invoice": "Rechnung Nr. <RE-<N4>>"
+            }
+		},
+        {
+			"name": "Eckerle_Automotive_GmbH",
+			"metrics": {
+                "name": [
+                    "Eckerle Automotive GmbH"
+                ],
+                "invoice": "Rechnung Nr.: <N8>"
+            }
+		},
+        {
+			"name": "EnBW_AG",
+			"metrics": {
+                "name": [
+                    "EnBW AG"
+                ],
+                "invoice": "<N10>"
+            }
+		},
+        {
+			"name": "EnBW_ODR_AG",
+			"metrics": {
+                "name": [
+                    "EnBW Ostwürttemberg DonauRies AG"
+                ],
+                "invoice": "Rechnungs-Nr. <WORD>"
+            }
+		},
+        {
+			"name": "EnBW_ODR_AG",
+			"metrics": {
+                "name": [
+                    "EnBW ODR AG"
+                ],
+                "invoice": "Rechnungs-Nr. <N12>"
+            }
+		},
+        {
+			"name": "EPAL_Deutschland",
+			"metrics": {
+                "name": [
+                    "IBAN DE36 3005 0110 1006 1154 79"
+                ],
+                "invoice": "Rechnung-Nr. <WORD>"
+            }
+		},
+        {
+			"name": "European_Pallet",
+			"metrics": {
+                "name": [
+                    "European Pallet Association e.V"
+                ],
+                "invoice": "Nr.: <N9>"
+            }
+		},
+        {
+			"name": "EWM_GmbH",
+			"metrics": {
+                "name": [
+                    "EWM GmbH"
+                ],
+                "invoice": "<<N3>/<N8>>Nummer:"
+            }
+		},
+        {
+			"name": "EWM_GmbH",
+			"metrics": {
+                "name": [
+                    "EWM GmbH"
+                ],
+                "invoice": "Nummer: <<N3>/<N8>>"
+            }
+		},
+        {
+			"name": "Heinrich_Feeß_GmbH",
+			"metrics": {
+                "name": [
+                    "Heinrich Feeß GmbH"
+                ],
+                "invoice": "Beleg-Nr.: <N5>-<N1>"
+            }
+		},
+        {
+			"name": "Heinrich_Feeß_GmbH",
+			"metrics": {
+                "name": [
+                    "Heinrich Feeß GmbH"
+                ],
+                "invoice": "Beleg-Nr.: TR<N2>-<N4>",
+                "credit": "Beleg-Nr.: VKGG<N2>-<N4>"
+            }
+		},
+        {
+			"name": "G_Schmid_GmbH",
+			"metrics": {
+                "name": [
+                    "invoice@g-schmid-gmbh.com"
+                ],
+                "invoice": "Rechnung RE<N2>.<N5>"           
+            }
+		},
+        {
+			"name": "Gabarro",
+			"metrics": {
+                "name": [
+                    "Kundennummer: 03632"
+                ],
+                "invoice": "Rechnungs-Nr: <N7>"
+            }
+		},
+        {
+			"name": "Grönenbacher_Lackfabrik",
+			"metrics": {
+                "name": [
+                    "Grönenbacher Lackfabrik"
+                ],
+                "invoice": "Rechnungs-Nr. <N8>"
+            }
+		},
+        {
+			"name": "Hak_Paletten",
+			"metrics": {
+                "name": [
+                    "Hak Paletten"
+                ],
+                "invoice": "<R<N1>-<N4>-<N3>>"
+            }
+		},
+        {
+			"name": "Has_Paletten",
+			"metrics": {
+                "name": [
+                    "Has Paletten"
+                ],
+                "invoice": "<R<N4>-<N4>>"
+            }
+		},
+        {
+			"name": "Hauser_Holzbearbeitung_GmbH",
+			"metrics": {
+                "name": [
+                    "Hauser Holzbearbeitung GmbH"
+                ],
+                "invoice": "Nummer: <N6>"
+            }
+		},
+        {
+			"name": "Wilhelm_Heim_GmbH",
+			"metrics": {
+                "name": [
+                    "Wilhelm Heim GmbH"
+                ],
+                "invoice": "<N8>"
+            }
+		},
+        {
+			"name": "Heinrich_Schmid_GmbH",
+			"metrics": {
+                "name": [
+                    "Heinrich Schmid GmbH"
+                ],
+                "invoice": "Rechnung Nr. <WORD>"
+            }
+		},
+        {
+			"name": "Holzwerk_Mundloch_GmbH",
+			"metrics": {
+                "name": [
+                    "Holzwerk Mundloch GmbH"
+                ],
+                "invoice": "<N5>-<N6>"
+            }
+		},
+        {
+			"name": "Holzwerk_Mundloch_GmbH",
+			"metrics": {
+                "name": [
+                    "Holzwerk Mundloch GmbH"
+                ],
+                "invoice": "<N5>-<N6>"
+            }
+		},
+        {
+			"name": "Holzwerk_ROTH_GmbH",
+			"metrics": {
+                "name": [
+                    "Holzwerk ROTH GmbH"
+                ],
+                "invoice": "RECHNUNG <N7>"
+            }
+		},
+        {
+			"name": "Hygiene_AsBur_GmbH",
+			"metrics": {
+                "name": [
+                    "Hygiene AsBur GmbH"
+                ],
+                "invoice": "Rechnung Nr. <N5>"
+            }
+		},
+        {
+			"name": "Kaml_Verpackung_GmbH",
+			"metrics": {
+                "name": [
+                    "Kaml Verpackung GmbH"
+                ],
+                "invoice": "<RE<N6>>"
+            }
+		},
+        {
+			"name": "Fahrschule_Kesmez",
+			"metrics": {
+                "name": [
+                    "Fahrschule Kesmez"
+                ],
+                "invoice": "Rechnung - Nr. <WORD>"
+            }
+		},
+        {
+			"name": "Emil_Loeffelhardt_GmbH",
+			"metrics": {
+                "name": [
+                    "Emil Löffelhardt GmbH"
+                ],
+                "invoice": "Rechnungsnummer <N10>",
+                "credit": "Belegnummer <N10>"
+            }
+		},
+        {
+			"name": "Offenburg_Palettenlogistik",
+			"metrics": {
+                "name": [
+                    "Offenburg Palettenlogistik"
+                ],
+                "invoice": "Rechnung-<N7>"
+            }
+		},
+        {
+			"name": "Paletten_Center_Muenchen",
+			"metrics": {
+                "name": [
+                    "Paletten Center München"
+                ],
+                "invoice": "Rechnungs-Nr: <WORD>"
+            }
+		},
+        {
+			"name": "Paletten_Haus",
+			"metrics": {
+                "name": [
+                    "Paletten Haus"
+                ],
+                "invoice": "Rechnung Nr. <N8>"
+            }
+		},
+        {
+			"name": "Palettenhandel_Donau_Ries_GmbH",
+			"metrics": {
+                "name": [
+                    "Palettenhandel Donau - Ries GmbH"
+                ],
+                "invoice": "Rechnungs-Nr.: <N7>"
+            }
+		},
+        {
+			"name": "Palettenscout_GmbH",
+			"metrics": {
+                "name": [
+                    "Palettenscout GmbH"
+                ],
+                "invoice": "Rechnung: <WORD>"
+            }
+		},
+        {
+			"name": "Phoenix_Paletten_GmbH",
+			"metrics": {
+                "name": [
+                    "Phoenix Paletten GmbH"
+                ],
+                "invoice": "Rechnung Nr. <N4>"
+            }
+		},
+        {
+			"name": "PM_Peak_Logistics_GmbH",
+			"metrics": {
+                "name": [
+                    "PM Peak Logistics GmbH Wildbichler Straße 2d AT6341 Ebbs"
+                ],
+                "invoice": "Rechnungs Nr.: <ARE<N9>>"
+            }
+		},
+        {
+			"name": "Quehenberger_Freight_GmbH",
+			"metrics": {
+                "name": [
+                    "Quehenberger Freight GmbH"
+                ],
+                "invoice": "<N10>"
+            }
+		},
+        {
+			"name": "Reinert_Kunststofftechnik_GmbH",
+			"metrics": {
+                "name": [
+                    "Reinert Kunststofftechnik GmbH"
+                ],
+                "invoice": "Rechnung Nr.  <N6>"
+            }
+		},
+        {
+			"name": "Ruhrpal_Paletten_Logistik_GmbH",
+			"metrics": {
+                "name": [
+                    "Ruhrpal Paletten-Logistik GmbH"
+                ],
+                "invoice": "Rechnung Nr. <N6>"
+            }
+		},
+        {
+			"name": "SSK_Schrauben_Schmid_GmbH",
+			"metrics": {
+                "name": [
+                    "SSK Schrauben Schmid GmbH"
+                ],
+                "invoice": "Rechnung <N9>"
+            }
+		},
+        {
+			"name": "SCHREUR_International",
+			"metrics": {
+                "name": [
+                    "SCHREUR International"
+                ],
+                "invoice": "Rechnungs-Nr. <WORD>"
+            }
+		},
+        {
+			"name": "SEW_EURODRIVE_GmbH",
+			"metrics": {
+                "name": [
+                    "SEW-EURODRIVE GmbH"
+                ],
+                "invoice": "Belegnummer: <N9>"
+            }
+		},
+        {
+			"name": "TeamViewer_Germany_GmbH",
+			"metrics": {
+                "name": [
+                    "TeamViewer Germany GmbH"
+                ],
+                "invoice": "RECHNUNG - <R<N8>>"
+            }
+		},
+        {
+			"name": "Visable_GmbH",
+			"metrics": {
+                "name": [
+                    "Visable GmbH"
+                ],
+                "invoice": "<N10>"
+			}
+		},
+        {
+            "name": "Adolf_Wuerth_GmbH",
+			"metrics": {
+                "name": [
+                    "nl.kirchheim-teck@wuerth.com"
+                ],
+                "invoice": "Rechnungsnummer <N10>"
+            }
+        },
+        {
+            "name": "Adolf_Wuerth_GmbH",
+			"metrics": {
+                "name": [
+                    "Adolf Würth GmbH"
+                ],
+                "invoice": "Rechnungsnr.: <N10>"  
+            }
+        },
+        {
+            "name": "Yildizli_Volkan",
+			"metrics": {
+                "name": [
+                    "Volkan Yildizli"
+                ],
+                "invoice": "Rechnung Nr. <<N4>-<N2>>"
+            }
+        },
+        {
+            "name": "Yildizli_Serkan",
+			"metrics": {
+                "name": [
+                    "Serkan Yildizli"
+                ],
+                "invoice": "Rechnung Nr. <<N4>-<N2>>"
+            }
+        },
+        {
+            "name": "ALAN_Groß_Einzelhandelsunternehmen",
+			"metrics": {
+                "name": [
+                    "Email.: alan-paletten@web.de"
+                ],
+                "invoice": "Rechnungsnr.: <R<N4>-<N2>>"  
+            }
+        },
+        {
+            "name": "ASFINAG",
+			"metrics": {
+                "name": [
+                    "ASFINAG, Schnirchgasse 17, 1030 Wien, Österreich"
+                ],
+                "invoice": "Rechnung <N4> <N4> <N4>"  
+            }
+        },
+        {
+            "name": "ATG_Palettenhandel",
+			"metrics": {
+                "name": [
+                    "ATG Palettenhandel"
+                ],
+                "invoice": "Lieferscheinnummer: <LS<N7>>"  
+            }
+        },
+        {
+            "name": "AZ_Bautenschutz_GmbH",
+			"metrics": {
+                "name": [
+                    "BIC: COBADEFFXXX   IBAN: DE38 6044 0073 0736 31 2000"
+                ],
+                "invoice": "Rechnungs-Nr. <N2>-<N3>"  
+            }
+        },
+        {
+            "name": "DACHSER_SE",
+			"metrics": {
+                "name": [
+                    "DACHSER SE"
+                ],
+                "invoice": "Belegnr.: <N10>"  
+            }
+        },
+        {
+            "name": "Bauwaren_Mahler",
+			"metrics": {
+                "name": [
+                    "Bauwaren Mahler"
+                ],
+                "invoice": "<N8>"  
+            }
+        },
+        {
+            "name": "Circle_K_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "Circle K Deutschland GmbH"
+                ],
+                "invoice": "DEUTSCHLAND - N° <D<N7>>"
+            }
+        },
+        {
+            "name": "Black_Forest_Distillers_GmbH",
+			"metrics": {
+                "name": [
+                    "Black Forest Distillers GmbH"
+                ],
+                "invoice": "Rechnungsnummer: <BFD-<N5>>"
+            }
+        },
+        {
+            "name": "Envases_Oehringen_GmbH",
+			"metrics": {
+                "name": [
+                    "Envases Öhringen GmbH"
+                ],
+                "invoice": "<N6>"
+            }
+        },
+        {
+            "name": "hagebau_GmbH",
+			"metrics": {
+                "name": [
+                    "hagebau Gebrüder Ott Baustoffe GmbH"
+                ],
+                "invoice": "<N8>"
+            }
+        },
+        {
+            "name": "Holcim_Kies_Beton_GmbH",
+			"metrics": {
+                "name": [
+                    "Holcim Kies und Beton GmbH"
+                ],
+                "invoice": "Rechnung: <N10>"
+            }
+        },
+        {
+            "name": "Huttenlocher_Schäfer_GmbH",
+			"metrics": {
+                "name": [
+                    "Huttenlocher & Schäfer GmbH"
+                ],
+                "invoice": "<N6>"
+            }
+        },
+        {
+            "name": "MCG_Logistics_Sp",
+			"metrics": {
+                "name": [
+                    "MCG Logistics Sp. z o.o."
+                ],
+                "invoice": "RECHNUNG NR   <WORD>"
+            }
+        },
+        {
+            "name": "Mercer_Torgau_GmbH",
+			"metrics": {
+                "name": [
+                    "Mercer Torgau GmbH"
+                ],
+                "invoice": "<N9>"
+            }
+        },
+        {
+            "name": "Mercer_Torgau_GmbH",
+			"metrics": {
+                "name": [
+                    "Mercer Torgau GmbH"
+                ],
+                "invoice": "",
+                "credit": "Gutschrift zur Rechnung <N9>"
+
+            }
+        },
+        {
+            "name": "KE_Paletten",
+			"metrics": {
+                "name": [
+                    "KE Paletten"
+                ],
+                "invoice": "Rechnungs-Nr. <RE-<N4>>",
+                "credit": "Gutschrift-Nr. <GU-<N4>>"
+
+            }
+        },
+        {
+            "name": "KE_Paletten",
+			"metrics": {
+                "name": [
+                    "KE Paletten"
+                ],
+                "invoice": "Rechnungs-Nr. <RE-<N4>>"
+            }
+        },
+        {
+            "name": "KE_Paletten",
+			"metrics": {
+                "name": [
+                    "KE Paletten"
+                ],
+                "invoice": "Lieferschein-Nr. <LI-<N4>>"
+            }
+        },
+        {
+            "name": "Lionstar_GmbH",
+			"metrics": {
+                "name": [
+                    "Lionstar GmbH Paletten Handel"
+                ],
+                "invoice": "Rechnungs-Nr. <RE-<N4>>"
+            }
+        },
+        {
+            "name": "Klute_Handels_Dienstleistungs_GmbH",
+			"metrics": {
+                "name": [
+                    "Klute Handels- & Dienstleistungs GmbH"
+                ],
+                "invoice": "Rechnung <RE<N8>>"
+            }
+        },
+        {
+            "name": "KRAIS_FRIZ",
+			"metrics": {
+                "name": [
+                    "Kunden-Nr. 77375"
+                ],
+                "invoice": "Rechn-Nr. <N6>"
+            }
+        },
+        {
+            "name": "Spedition_Kniep_Verwaltungs_GmbH",
+			"metrics": {
+                "name": [
+                    "Spedition Kniep Verwaltungs GmbH"
+                ],
+                "invoice": "<N8>"
+            }
+        },
+        {
+            "name": "MAP_Lademittel",
+			"metrics": {
+                "name": [
+                    "MAP Lademittel"
+                ],
+                "invoice": "Rechnung Nr.  <N9>"
+            }
+        },
+        {
+            "name": "MaReja_Transport_Logistik",
+			"metrics": {
+                "name": [
+                    "MaReja Transport"
+                ],
+                "invoice": "Nummer: <<N4>-PR-<N4>>"
+            }
+        },
+        {
+            "name": "MaReja_Spedition_Leergutlogistik",
+			"metrics": {
+                "name": [
+                    "MaReja Spedition und Leergutlogistik"
+                ],
+                "invoice": "Nummer: <<N4>-LR-<N4>>"
+            }
+        },
+        {
+            "name": "MaReja_Spedition_Leergutlogistik",
+			"metrics": {
+                "name": [
+                    "MaReja Spedition und Leergutlogistik"
+                ],
+                "invoice": "Nummer: <<N4>-PR-<N4>>"
+            }
+        },
+        {
+            "name": "MIPA_SE",
+			"metrics": {
+                "name": [
+                    "MIPA SE"
+                ],
+                "invoice": "Rechn.Nr. <N9>"
+            }
+        },
+        {
+            "name": "MIPA_GmbH",
+			"metrics": {
+                "name": [
+                    "MIPA GmbH"
+                ],
+                "invoice": "Rechnung <RE-<N4>-<N3>>"
+            }
+        },
+        {
+            "name": "MSG_GmbH",
+			"metrics": {
+                "name": [
+                    "MSG GmbH"
+                ],
+                "invoice": "Rechnungsnummer: <N6>"
+            }
+        },
+        {
+            "name": "Neckar_Paletten",
+			"metrics": {
+                "name": [
+                    "Neckar Paletten"
+                ],
+                "invoice": "<RE<N4>>"
+            }
+        },
+        {
+            "name": "OrgaMax",
+			"metrics": {
+                "name": [
+                    "deltra Business Software GmbH & Co. KG"
+                ],
+                "invoice": "Rechnungs-Nr.: <N10>"
+            }
+        },
+        {
+            "name": "Vodafone",
+			"metrics": {
+                "name": [
+                    "Vodafone"
+                ],
+                "invoice": "Rechnungs-Nummer: <N12>"
+            }
+        },
+        {
+            "name": "PAKi_Logistics_GmbH",
+			"metrics": {
+                "name": [
+                    "PAKi Logistics GmbH"
+                ],
+                "invoice": "<VKRE<N2>-<N7>>",
+                "credit":  "<ER<N2>-<N7>>"
+            }
+        },
+        {
+            "name": "PAKi_Logistics_GmbH",
+			"metrics": {
+                "name": [
+                    "PAKi Logistics GmbH"
+                ],
+                "credit":  "<EG<N2>-<N7>>"
+            }
+        },
+        {
+            "name": "PAKi_Logistics_GmbH",
+			"metrics": {
+                "name": [
+                    "PAKi Logistics GmbH"
+                ],
+                "invoice": "<RE<N2>-<N7>>Rechnungsnr."
+            }
+        },
+        {
+            "name": "CHEP_DEUTSCHLAND_GMBH",
+			"metrics": {
+                "name": [
+                    "CHEP DEUTSCHLAND GMBH"
+                ],
+                "invoice": "Gutschrift Nummer",
+                "credit":  "<<N15>-<N4>>"
+            }
+        },
+        {
+            "name": "Kessler_GmbH",
+			"metrics": {
+                "name": [
+                    "Kessler & Co. GmbH"
+                ],
+                "invoice": "<N6>"
+            }
+        },
+        {
+			"name": "WPS_Werner_Paletten_Service_GmbH",
+			"metrics": {
+                "name": [
+                    "WPS Werner Paletten Service"
+                ],
+                "invoice": "Rechnung Nr. <RE<N4>-<N6>>"
+            }
+		},
+        {
+            "name": "AMBAR",
+			"metrics": {
+                "name": [
+                    "AMBAR, D-83435 Bad Reichenhall"
+                ],
+                "invoice": "<N8>"
+            }
+        },
+        {
+            "name": "ECOVIS_RTS_BW",
+			"metrics": {
+                "name": [
+                    "ECOVIS RTS BW StBGes. GmbH & Co. KG"
+                ],
+                "invoice": "<<N4>/<N6>>"
+            }
+        },
+        {
+            "name": "Knauf_Interfer_Stahl_Service_Center_GmbH",
+			"metrics": {
+                "name": [
+                    "Knauf Interfer Stahl Service Center GmbH"
+                ],
+                "invoice": " R-Nr.:  <N10>"
+            }
+        },
+        {
+            "name": "Telekom_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "Telekom Deutschland GmbH"
+                ],
+                "invoice": "Rechnungsnummer <<N2> <N4> <N4> <N4>>"
+            }
+        },
+        {
+            "name": "Telekom_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "Telekom Deutschland GmbH"
+                ],
+                "invoice": "Rechnungsnummer <<N3> <N3> <N4>>"
+            }
+        },
+        {
+            "name": "Euroblock_Verpackungsholz_GmbH",
+			"metrics": {
+                "name": [
+                    "Euroblock Verpackungsholz GmbH"
+                ],
+                "invoice": "Rechnungsnummer / Datum <N10>"
+            }
+        },
+        {
+            "name": "Nextway_Logistics GmbH",
+			"metrics": {
+                "name": [
+                    "nextway logistics GmbH"
+                ],
+                "invoice": "Rechnung <RE<N4>>"
+            }
+        },
+        {
+            "name": "MAN_Truck_Bus_SE",
+			"metrics": {
+                "name": [
+                    "MAN Truck & Bus SE"
+                ],
+                "invoice": "Rechnungsnummer <MAN<N8>>"
+            }
+        },
+        {
+            "name": "LITC_Jasmin_Lieffering",
+			"metrics": {
+                "name": [
+                    "LITC - Jasmin Lieffering"
+                ],
+                "invoice": "<RE<N9>>"
+            }
+        },
+        {
+            "name": "Kemmler_Baustoffe_Nürtingen_GmbH",
+			"metrics": {
+                "name": [
+                    "Kemmler Baustoffe Nürtingen GmbH"
+                ],
+                "invoice": "KRE <N7>"
+            }
+        },
+        {
+            "name": "Schrott_Metallhandel_M_Kaatsch_GmbH",
+			"metrics": {
+                "name": [
+                    "Schrott- und Metallhandel M. Kaatsch GmbH",
+                    "G U T S C H R I F T (Original)"
+                ],
+                "invoice": "",
+                "credit": "Belegnummer: <N7>"
+            }
+        },
+        {
+            "name": "Schrott_Metallhandel_M_Kaatsch_GmbH",
+			"metrics": {
+                "name": [
+                    "Schrott- und Metallhandel M. Kaatsch GmbH",
+                    "G U T S C H R I F T (Original)"
+                ],
+                "invoice": "",
+                "credit": "Beleg-Nr.: <N7>"
+            }
+        },
+        {
+            "name": "Schrott_Metallhandel_M_Kaatsch_GmbH",
+			"metrics": {
+                "name": [
+                    "Schrott- und Metallhandel M. Kaatsch GmbH",
+                    "* R E C H N U N G * (Original)"
+                ],
+                "invoice": "Beleg-Nr.: <N7>"
+            }
+        },
+        {
+            "name": "Johann_Wintermantel_GmbH",
+			"metrics": {
+                "name": [
+                    "Johann Wintermantel GmbH"
+                ],
+                "invoice": "<FA<N2>-<N3>>"
+            }
+        },
+        {
+            "name": "H_B_GmbH",
+			"metrics": {
+                "name": [
+                    "H & B GmbH"
+                ],
+                "invoice": "Rechnungsnummer: <N6>"
+            }
+        },
+        {
+            "name": "FIEGE_relog_GmbH",
+			"metrics": {
+                "name": [
+                    "FIEGE relog GmbH"
+                ],
+                "invoice": "<N6>"
+            }
+        },
+        {
+            "name": "FIEGE_Logistik_Stiftung",
+			"metrics": {
+                "name": [
+                    "FIEGE Logistik Stiftung"
+                ],
+                "invoice": "<N6>"
+            }
+        },
+        {
+            "name": "ZEK_Systemhaus",
+			"metrics": {
+                "name": [
+                    "ZEK Systemhaus"
+                ],
+                "invoice": "<N2>.<N2>.<N4><N6>"
+            }
+        },
+        {
+            "name": "Carl_Wiedenmann_GmbH",
+			"metrics": {
+                "name": [
+                    "carl wiedenmann GmbH"
+                ],
+                "invoice": "<N8>"
+            }
+        },
+        {
+            "name": "WORTEX",
+			"metrics": {
+                "name": [
+                    "WORTEX"
+                ],
+                "invoice": "Faktura numer / Invoice No. <FV<N4>/<N2>/<N1>>"
+            }
+        },
+        {
+            "name": "WORTEX",
+			"metrics": {
+                "name": [
+                    "WORTEX"
+                ],
+                "invoice": "Faktura numer / Invoice N° <FV<N4>/<N2>/<N1>>"
+            }
+        },
+        {
+            "name": "JARMEX",
+			"metrics": {
+                "name": [
+                    "JARMEX Sp. z o.o. Sp. k."
+                ],
+                "invoice": "Faktura VAT nr: FSU /TJ  /<N2>/<N2>/<N3>"
+            }
+        },
+        {
+            "name": "Truck_Car_Wash",
+			"metrics": {
+                "name": [
+                    "Truck & Car Wash"
+                ],
+                "invoice": "Rechnung <N6>"
+            }
+        },
+        {
+            "name": "IDV_GmbH",
+			"metrics": {
+                "name": [
+                    "IDV GmbH"
+                ],
+                 "invoice": "<N8>"
+            }
+        },
+        {
+            "name": "KEMPER_GmbH",
+			"metrics": {
+                "name": [
+                    "KEMPER GmbH"
+                ],
+                 "invoice": "Rechnung <<N3>/<N8>>"
+            }
+        },
+        {
+            "name": "Weimer_Transporte",
+			"metrics": {
+                "name": [
+                    "www.weimer-transporte.de"
+                ],
+                 "invoice": "RG-Nr.: <N3>"
+            }
+        },
+        {
+            "name": "OLYMPUS_DAIRY_DEUTSCHLAND_GmbH",
+			"metrics": {
+                "name": [
+                    "OLYMPUS DAIRY DEUTSCHLAND GmbH"
+                ],
+                 "invoice": "SAP-Nr. : <N10>"
+            }
+        },
+        {
+            "name": "OFFICE_PRODUCTS_Zeitler_GmbH",
+			"metrics": {
+                "name": [
+                    "OFFICE PRODUCTS Zeitler GmbH"
+                ],
+                 "invoice": "<N6>RECHNUNG"
+            }
+        },
+        {
+            "name": "MEK_Logistik_Services_GmbH",
+			"metrics": {
+                "name": [
+                    "MEK Logistik Services GmbH"
+                ],
+                 "invoice": "Rechnungsnummer: RE <N4>-<N3>"
+            }
+        },
+        {
+            "name": "Mack_GmbH",
+			"metrics": {
+                "name": [
+                    "Mack GmbH"
+                ],
+                 "invoice": "Rechnung <RG<N8>>"
+            }
+        },
+        {
+            "name": "Liebherr_Hausgeraete",
+			"metrics": {
+                "name": [
+                    "5376100"
+                ],
+                 "invoice": "<N7>   <N7>"
+            }
+        },
+        {
+            "name": "Liebherr_Hydraulikbagger_GmbH",
+			"metrics": {
+                "name": [
+                    "Liebherr-Hydraulikbagger GmbH"
+                ],
+                 "invoice": "<LKA<N8>>"
+            }
+        },
+        {
+            "name": "Liebherr_Hydraulikbagger_GmbH",
+			"metrics": {
+                "name": [
+                    "Liebherr-Hydraulikbagger GmbH"
+                ],
+                 "invoice": "<DRA<N8>>"
+            }
+        },
+        {
+            "name": "Liebherr_Electronics_Drives_GmbH",
+			"metrics": {
+                "name": [
+                    "Liebherr-Electronics and Drives GmbH"
+                ],
+                 "invoice": "<DAR<N8>>"
+            }
+        },
+        {
+            "name": "Liebherr_Logistics_GmbH",
+			"metrics": {
+                "name": [
+                    "Liebherr-Logistics GmbH"
+                ],
+                 "invoice": "<DAR <N8>>"
+            }
+        },
+        {
+            "name": "Lerner_Lachenmaier_Partner",
+			"metrics": {
+                "name": [
+                    "Robert Trauth Thomas Maier"
+                ],
+                 "invoice": "Rechnungsnummer: <N10>"
+            }
+        },
+        {
+            "name": "KLB_KOETZTAL",
+			"metrics": {
+                "name": [
+                    "KLB KÖTZTAL"
+                ],
+                 "invoice": "Rechnung Nr. <R<N7>>"
+            }
+        },
+        {
+            "name": "JS_Palettenvertrieb_GmbH",
+			"metrics": {
+                "name": [
+                    "JS Palettenvertrieb GmbH"
+                ],
+                 "invoice": "Rechnung: <Re-<N5>/<N4>>"
+            }
+        },
+        {
+            "name": "Interpneu",
+			"metrics": {
+                "name": [
+                    "Interpneu Handelsges."
+                ],
+                 "invoice": "Belegnummer: <N10>"
+            }
+        },
+        {
+            "name": "Interflon_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "Interflon Deutschland GmbH"
+                ],
+                 "invoice": "<N10>Rechnung"
+            }
+        },
+        {
+            "name": "Hygiene_Shop",
+			"metrics": {
+                "name": [
+                    "Hygiene-Shop.com"
+                ],
+                 "invoice": "Rechnung Nr. <N7>"
+            }
+        },
+        {
+            "name": "Getraenke_Hoyler",
+			"metrics": {
+                "name": [
+                    "Getränke Hoyler"
+                ],
+                 "invoice": "<<N2>.<N2>.<N2><N6>>"
+            }
+        },
+        {
+            "name": "Holzbau_Siegfried_Bauer_GmbH",
+			"metrics": {
+                "name": [
+                    "Holzbau Siegfried Bauer GmbH"
+                ],
+                 "invoice": "Rechnung <RE<N4>-<N2>-<N3>>"
+            }
+        },
+        {
+            "name": "Höfer_GmbH",
+			"metrics": {
+                "name": [
+                    "Holz ist ein Naturpodukt"
+                ],
+                 "invoice": "Rechnung Nr. <RE<N2>-<N4>>"
+            }
+        },
+        {
+            "name": "Hieber_Koeder",
+			"metrics": {
+                "name": [
+                    "Nicolas Köder"
+                ],
+                 "invoice": "<<N4>-<N5>>"
+            }
+        },
+        {
+            "name": "HEYMAN_Manufacturing_GmbH",
+			"metrics": {
+                "name": [
+                    "info@heyman.de"
+                ],
+                 "invoice": "Rechnungsnummer: <RE<N7>>"
+            }
+        },
+        {
+            "name": "HEGELMANN_TRANSPORTE_SP",
+			"metrics": {
+                "name": [
+                    "HEGELMANN TRANSPORTE SP. Z O.O."
+                ],
+                 "invoice": "<N12>"
+            }
+        },
+        {
+            "name": "Gross_GmbH",
+			"metrics": {
+                "name": [
+                    "Gross GmbH"
+                ],
+                 "invoice": "Rechnungsnummer <N10>"
+            }
+        },
+        {
+            "name": "Blumen_Gezer",
+			"metrics": {
+                "name": [
+                    "info@blumen-gezer.de"
+                ],
+                 "invoice": "<RE<N4>>"
+            }
+        },
+        {
+            "name": "Garmo_AG",
+			"metrics": {
+                "name": [
+                    "garmo AG"
+                ],
+                 "invoice": "<N10>"
+            }
+        },
+        {
+            "name": "Food_Champion_Riverside_GmbH",
+			"metrics": {
+                "name": [
+                    "Food-Champion Riverside GmbH"
+                ],
+                 "invoice": "Rechnung: <FCR-<N4>-<N2>>"
+            }
+        },
+        {
+            "name": "Heinrich_Feess_GmbH",
+			"metrics": {
+                "name": [
+                    "Heinrich Feeß GmbH"
+                ],
+                 "invoice": "Beleg-Nr.: <VKRG<N2>-<N5>>"
+            }
+        },
+        {
+            "name": "Farnell_GmbH",
+			"metrics": {
+                "name": [
+                    "Farnell GmbH"
+                ],
+                 "invoice": "Rechnungs-Nr. <N6>"
+            }
+        },
+        {
+            "name": "R_F_Mayer_GmbH",
+			"metrics": {
+                "name": [
+                    "USt-Id-Nummer: DE815158609"
+                ],
+                 "invoice": "Rechnung <RE<N5>-<N4>>"
+            }
+        },
+        {
+            "name": "EMERLOG_SP",
+			"metrics": {
+                "name": [
+                    "EMERLOG SP. Z O.O."
+                ],
+                 "invoice": "FAKTURA NR   <<N6>/FV/<N4>>"
+            }
+        },
+        {
+            "name": "DT_Druckluft_Technik_GmbH",
+			"metrics": {
+                "name": [
+                    "dt druckluft-technik GmbH"
+                ],
+                 "invoice": "<RE-<N6>/<N2>>"
+            }
+        },
+        {
+            "name": "DREISTERN_GmbH",
+			"metrics": {
+                "name": [
+                    "DREISTERN GmbH"
+                ],
+                 "invoice": "Rechnung Nr.: <N6>"
+            }
+        },
+        {
+            "name": "Dr_Meier_Schmidt_GmbH",
+			"metrics": {
+                "name": [
+                    "Dr. Meier & Schmidt GmbH"
+                ],
+                 "invoice": "<N10>"
+            }
+        },
+        {
+            "name": "Dominion_GmbH",
+			"metrics": {
+                "name": [
+                    "Dominion GmbH"
+                ],
+                 "invoice": "Rechnung <N6>"
+            }
+        },
+        {
+            "name": "Decker_Co_Internationale_Spedition_GmbH",
+			"metrics": {
+                "name": [
+                    "decker & co - Internationale Spedition GmbH"
+                ],
+                 "invoice": "Rechnungs-Nr. : <R<N3>-<N6>>"
+            }
+        },
+        {
+            "name": "Daimler_Truck_AG",
+			"metrics": {
+                "name": [
+                    "Daimler Truck AG"
+                ],
+                 "invoice": "Bitte geben Sie bei Bezahlung folgende Nummer an: <N10>"
+            }
+        },
+        {
+            "name": "DALLMEIER_COMPONENTS_GmbH",
+			"metrics": {
+                "name": [
+                    "DALLMEIER COMPONENTS"
+                ],
+                 "invoice": "Nr. <S<N6>>"
+            }
+        },
+        {
+            "name": "Birk",
+			"metrics": {
+                "name": [
+                    "info@birk.de"
+                ],
+                 "invoice": "621 ZSBI01  <N8>"
+            }
+        },
+        {
+            "name": "Zettl_GmbH",
+			"metrics": {
+                "name": [
+                    "Zettl GmbH"
+                ],
+                 "invoice": "<N8>"
+            }
+        },
+        {
+            "name": "Zacher_Transporte",
+			"metrics": {
+                "name": [
+                    "Zacherl-Transporte"
+                ],
+                 "invoice": "Rechnung <X<N2>/<N4>>"
+            }
+        },
+        {
+            "name": "Christian_Winkler_GmbH",
+			"metrics": {
+                "name": [
+                    "Christian Winkler GmbH"
+                ],
+                 "invoice": "Rechnungs-Nr.: <N8>"
+            }
+        },
+        {
+            "name": "Willy_Paletten",
+			"metrics": {
+                "name": [
+                    "Willy Paletten"
+                ],
+                 "invoice": "<RE<N4>>"
+            }
+        },
+        {
+            "name": "Vermessungsbuero_Helmut_Wieninger",
+			"metrics": {
+                "name": [
+                    "Vermessungsbüro Helmut Wieninger"
+                ],
+                 "invoice": "WE <<N3>/<N2>>"
+            }
+        },
+        {
+            "name": "Vergoelst_GmbH",
+			"metrics": {
+                "name": [
+                    "Vergölst GmbH"
+                ],
+                 "invoice": "Belegnummer <N10>"
+            }
+        },
+        {
+            "name": "VERA_GORUP",
+			"metrics": {
+                "name": [
+                    "VERA GORUP"
+                ],
+                 "invoice": "NO: <WORD>"
+            }
+        },
+        {
+            "name": "Van_Treel_Farbspritztechnik",
+			"metrics": {
+                "name": [
+                    "van Treel Farbspritztechnik"
+                ],
+                 "invoice": "Rechnung Nr. <N7>"
+            }
+        },
+        {
+            "name": "Uralan_GmbH",
+			"metrics": {
+                "name": [
+                    "Umsatz-ID-Nr.: DE147203337"
+                ],
+                 "invoice": "Rechnung Nr.: <N8>"
+            }
+        },
+        {
+            "name": "TransPack_Krumbach_KG",
+			"metrics": {
+                "name": [
+                    "TransPack-Krumbach KG"
+                ],
+                 "invoice": "Rechnung  Nr. <N8>"
+            }
+        },
+        {
+            "name": "TIMOCOM_GmbH",
+			"metrics": {
+                "name": [
+                    "TIMOCOM GmbH"
+                ],
+                 "invoice": "Rechnungsnummer: <N9>"
+            }
+        },
+        {
+            "name": "Strategic_Enterprise_AG",
+			"metrics": {
+                "name": [
+                    "StrategicEnterprise AG"
+                ],
+                 "invoice": "Rechnungsnummer: <N9>"
+            }
+        },
+        {
+            "name": "Stocker_Service_GmbH",
+			"metrics": {
+                "name": [
+                    "Stocker Service GmbH"
+                ],
+                 "invoice": "Rechnung Nr. <N5>"
+            }
+        },
+        {
+            "name": "ST_Live_GmbH",
+			"metrics": {
+                "name": [
+                    "ST-Live GmbH"
+                ],
+                 "invoice": "Rechnung-Nr.: <N5>"
+            }
+        },
+        {
+            "name": "Walter_Stepper_GmbH",
+			"metrics": {
+                "name": [
+                    "Geschäftsführer: Walter Stepper"
+                ],
+                 "invoice": "R E C H N U N G    Nr. <N5>"
+            }
+        },
+        {
+            "name": "Schwarzwaldmilch_GmbH",
+			"metrics": {
+                "name": [
+                    "Schwarzwaldmilch GmbH"
+                ],
+                 "invoice": "Nummer/Datum <N8>"
+            }
+        },
+        {
+            "name": "Scania",
+			"metrics": {
+                "name": [
+                    "zahlungsavis@scania.de"
+                ],
+                 "invoice": "SBUWL<N5>"
+            }
+        },
+        {
+            "name": "Scania",
+			"metrics": {
+                "name": [
+                    "zahlungsavis@scania.de"
+                ],
+                 "invoice": "SSKWL<N5>"
+            }
+        },
+        {
+            "name": "Scania",
+			"metrics": {
+                "name": [
+                    "UST-ID...: DE812180098"
+                ],
+                 "invoice": "SSNPL<N5>"
+            }
+        },
+        {
+            "name": "Kerstin_Braun_Rechtsanwaeltin",
+			"metrics": {
+                "name": [
+                    "Kerstin Braun"
+                ],
+                 "invoice": "Rechnung Nr.   <<N3>/<N4>>"
+            }
+        },
+        {
+            "name": "Panariagroup_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "Panariagroup Deutschland GmbH"
+                ],
+                 "invoice": "Belegnummer <N10>"
+            }
+        },
+        {
+            "name": "Meinlschmidt_Raumkonzepte_GmbH",
+			"metrics": {
+                "name": [
+                    "Meinlschmidt Raumkonzepte GmbH"
+                ],
+                 "invoice": "Rechnung  <N6>"
+            }
+        },
+        {
+            "name": "Maier_Heiztechnik",
+			"metrics": {
+                "name": [
+                    "Kunden-Nr.: 14682"
+                ],
+                 "invoice": "Nummer: <N6>"
+            }
+        },
+        {
+            "name": "Tarbigem_Commodity_GmbH",
+			"metrics": {
+                "name": [
+                    "Tarbigem Commodity GmbH"
+                ],
+                 "invoice": "Rechnungsnummer: <RE<N5>>",
+                 "credit": "Gutschriftennummer: <GS<N4>>"
+            }
+        },
+        {
+            "name": "Pal_Com_GmbH",
+			"metrics": {
+                "name": [
+                    "Pal-Com GmbH"
+                ],
+                 "invoice": "Rechnungs-Nr. <RE-<N5>>",
+                 "credit": "Gutschrift-Nr. <GU-<N5>>"
+            }
+        },
+        {
+            "name": "Pal_Com_GmbH",
+			"metrics": {
+                "name": [
+                    "pal-Com GmbH"
+                ],
+                 "invoice": "Rechnungs-Nr. <RE-<N5>>",
+                 "credit": "Gutschrift-Nr. <GU-<N5>>"
+            }
+        },
+        {
+            "name": "Transped_Europe_GmbH",
+			"metrics": {
+                "name": [
+                    "Transped Europe GmbH"
+                ],
+                 "invoice": "<N8>"
+            }
+        },
+        {
+            "name": "Holz_Paletten_Zentrum_GmbH",
+			"metrics": {
+                "name": [
+                    "HPZ Holz-Paletten-Zentrum GmbH"
+                ],
+                 "invoice": "RE - Nr. : <N6>"
+            }
+        },
+        {
+            "name": "Holz_Paletten_Zentrum_GmbH",
+			"metrics": {
+                "name": [
+                    "HPZ Holz-Paletten-Zentrum GmbH"
+                ],
+                 "invoice": "RE - Nr.: <N6>"
+            }
+        },
+        {
+            "name": "Holz_Paletten_Zentrum_GmbH",
+			"metrics": {
+                "name": [
+                    "HPZ Holz-Paletten-Zentrum GmbH"
+                ],
+                 "invoice": "RE-Nr.: <N6>"
+            }
+        },
+        {
+            "name": "Holz_Paletten_Zentrum_GmbH",
+			"metrics": {
+                "name": [
+                    "HPZ Holz-Paletten-Zentrum GmbH"
+                ],
+                 "invoice": "RE -Nr.: <N6>"
+            }
+        },
+        {
+            "name": "Holz_Paletten_Zentrum_GmbH",
+			"metrics": {
+                "name": [
+                    "HPZ Holz-Paletten-Zentrum GmbH"
+                ],
+                 "invoice": "RE-WNr.: <N6>"
+            }
+        },
+        {
+            "name": "Vogel_GmbH_Kunststofftechnik",
+			"metrics": {
+                "name": [
+                    "Vogel GmbH Kunststofftechnik"
+                ],
+                 "invoice": "Kunden-Nr. <N7>"
+            }
+        },
+        {
+            "name": "Siemens_AG",
+			"metrics": {
+                "name": [
+                    "Siemens AG"
+                ],
+                 "invoice": "<N14>"
+            }
+        },
+        {
+            "name": "Siemens_AG",
+			"metrics": {
+                "name": [
+                    "Siemens AG"
+                ],
+                 "invoice": "Beleg-Nr. <N14>"
+            }
+        },
+        {
+            "name": "Workhub",
+			"metrics": {
+                "name": [
+                    "WORK HUB"
+                ],
+                 "invoice": "<<N1>/<N2>/<N4>>"
+            }
+        },
+        {
+            "name": "Workhub",
+			"metrics": {
+                "name": [
+                    "workhub.eu@gmail.com"
+                ],
+                 "invoice": "<<N1>/<N2>/<N4>>"
+            }
+        },
+        {
+            "name": "KontextWork_GbR",
+			"metrics": {
+                "name": [
+                    "KontextWork GbR"
+                ],
+                "invoice": "Rechnungsnummer: <3x<N9>"  
+            }
+        },
+        {
+            "name": "Kurka_Trans",
+			"metrics": {
+                "name": [
+                    "NIP: PL7881743577"
+                ],
+                "invoice": "Faktura <<N1>/<N1>/<N4>>"  
+            }
+        },
+        {
+            "name": "ORION_EXPRESS_Sp",
+			"metrics": {
+                "name": [
+                    "ORION EXPRESS Sp. z o.o."
+                ],
+                "invoice": "Faktura <FV/<N3>/<N1>/<N4>>"  
+            }
+        },
+        {
+            "name": "TA_Dienstleistungen",
+			"metrics": {
+                "name": [
+                    "TA Dienstleistungen"
+                ],
+                "invoice": "<RE<N4>>"  
+            }
+        },
+        {
+            "name": "SEW_EURODRIVE_GmbH",
+			"metrics": {
+                "name": [
+                    "www.sew-eurodrive.de"
+                ],
+                "invoice": "Rechnungs-Nr. <<N3> <N3>>"  
+            }
+        },
+        {
+            "name": "MediaMarkt",
+			"metrics": {
+                "name": [
+                    "myMediaMarkt-ID"
+                ],
+                "invoice": "Rechnungsnummer <WORD>"  
+            }
+        },
+        {
+            "name": "Hauptzollamt_Rosenheim",
+			"metrics": {
+                "name": [
+                    "Hauptzollamt Rosenheim"
+                ],
+                "invoice": "E ZS PALETTEN <WORD>"  
+            }
+        },
+        {
+            "name": "KFZ_Schneider_Nutzungsfahrzeuge_GmbH",
+			"metrics": {
+                "name": [
+                    "Michael Schneider"
+                ],
+                "invoice": "<<N5>-<N1>-<N1>-<N2> <N6> <N5>>"  
+            }
+        },
+        {
+            "name": "Melle_Gallhoefer_Dach_GmbH",
+			"metrics": {
+                "name": [
+                    "Melle Gallhöfer Dach"
+                ],
+                "invoice": "<AUFTRAGSBESTÄTIGUNG <N10>>"  
+            }
+        },
+        {
+            "name": "Melle_Gallhoefer_Dach_GmbH",
+			"metrics": {
+                "name": [
+                    "Melle Gallhéfer Dach"
+                ],
+                "invoice": "<ANZAHLUNGSRECHNUNG <N9>>"  
+            }
+        },
+        {
+            "name": "Gebr_Lotter_KG",
+			"metrics": {
+                "name": [
+                    "Gebr. Lotter KG Handelsunternehmen"
+                ],
+                "invoice": "<N2> / <N8>"  
+            }
+        },
+        {
+            "name": "GRIESHABER_Logistik_GmbH",
+			"metrics": {
+                "name": [
+                    "GRIESHABER Logistik GmbH"
+                ],
+                "invoice": "Rechnung <RE<N8>>"  
+            }
+        },
+        {
+            "name": "GRIESHABER_Logistik_GmbH",
+			"metrics": {
+                "name": [
+                    "GRIESHABER Logistik GmbH"
+                ],
+                "credit": "Gutschrift <RE<N8>>"  
+            }
+        },
+        {
+            "name": "ETG_Entsorgung_Transport_GmbH",
+			"metrics": {
+                "name": [
+                    "Ansprechpartner: abrechnung1@du-willkommen.de"
+                ],
+                "invoice": "<N6>"  
+            }
+        },
+        {
+            "name": "GPS_Holzpaletten_Tankschutz_GmbH",
+			"metrics": {
+                "name": [
+                    "G-P-S Holzpaletten + Tankschutz GmbH"
+                ],
+                "invoice": "Rechnung Nummer <R25/<N6>>"  
+            }
+        },
+        {
+            "name": "TB_Digital_Services_GmbH",
+			"metrics": {
+                "name": [
+                    "TB Digital Services GmbH"
+                ],
+                "invoice": "Germany Rechnungsnummer <RIO<N8>>"  
+            }
+        },
+        {
+            "name": "EBS_Ink_Jet_Systeme_GmbH",
+			"metrics": {
+                "name": [
+                    "EBS Ink Jet Systeme GmbH"
+                ],
+                "invoice": "Rechnung: <INV-<N6>>"  
+            }
+        },
+        {
+            "name": "AMK_Automotive_GmbH",
+			"metrics": {
+                "name": [
+                    "AMK Automotive GmbH & Co.KG"
+                ],
+                "invoice": "(8)Nr. <N8>"  
+            }
+        },
+        {
+            "name": "WACKLER_GMBH",
+			"metrics": {
+                "name": [
+                    "L. WACKLER WWE. NACHF. GMBH"
+                ],
+                "invoice": "<N8>"  
+            }
+        },
+        {
+            "name": "Globe_Fuel_Cell_Systems_GmbH",
+			"metrics": {
+                "name": [
+                    "Globe Fuel Cell Systems GmbH"
+                ],
+                "invoice": "Rechnung: <INV+<N2>+<N5>>"  
+            }
+        },
+        {
+            "name": "Klingele_Paper_Packaging_SE",
+			"metrics": {
+                "name": [
+                    "Klingele Paper & Packaging SE & Co. KG"
+                ],
+                "invoice": "<N8>"  
+            }
+        },
+        {
+            "name": "PPS_Service",
+			"metrics": {
+                "name": [
+                    "PPS Service"
+                ],
+                "invoice": "Rechnung  <<N3> - <N4> - <N3>- <N3>>"  
+            }
+        },
+        {
+            "name": "LYRECO_Deutschland_GmbH",
+			"metrics": {
+                "name": [
+                    "LYRECO Deutschland GmbH"
+                ],
+                "invoice": "RECHNUNG <N10>"  
+            }
+        },
+        {
+            "name": "Polytan_GmbH",
+			"metrics": {
+                "name": [
+                    "Polytan GmbH"
+                ],
+                "invoice": "Verkauf - Rechnung <WORD>"  
+            }
+        },
+        {
+            "name": "ARG_Montage_Dienstleistungen",
+			"metrics": {
+                "name": [
+                    "ARG Montage u. Dienstleistungen"
+                ],
+                "invoice": "<RE<N6>-<N4>>"  
+            }
+        },
+        {
+            "name": "LeanCL_GmbH",
+			"metrics": {
+                "name": [
+                    "LeanCL GmbH"
+                ],
+                "invoice": "<<N3>-DEZ<N3>>"  
+            }
+        },
+        {
+            "name": "Hilti_Deutschland_AG",
+			"metrics": {
+                "name": [
+                    "Hilti Deutschland AG"
+                ],
+                "invoice": "Rechnung  <N10>"  
+            }
+        },
+        {
+            "name": "Wolfgang_Staeudle_eK",
+			"metrics": {
+                "name": [
+                    "Wolfgang Stäudle e.K"
+                ],
+                "invoice": "<<N8>-<N5>>"  
+            }
+        },
+        {
+            "name": "Gruber_Industrieverpackung_GmbH",
+			"metrics": {
+                "name": [
+                    "Gruber Industrieverpackung GmbH"
+                ],
+                "invoice": "Belegnr.: <N9>"  
+            }
+        },
+        {
+            "name": "Schach_Werbetechnik_GmbH",
+			"metrics": {
+                "name": [
+                    "USt-IdNr.: DE341332480"
+                ],
+                "invoice": "Rechnung Nr. <N7>"  
+            }
+        },
+        {
+            "name": "MIBO_Holzbrennstoffe",
+			"metrics": {
+                "name": [
+                    "MIBO-Holzbrennstoffe"
+                ],
+                "invoice": "<<N4>-<N3>>"  
+            }
+        },
+        {
+            "name": "LZM_Flachstahl_GmbH",
+			"metrics": {
+                "name": [
+                    "LZM Flachstahl GmbH"
+                ],
+                "invoice": "RECHNUNG <N7>"  
+            }
+        },
+        {
+            "name": "MARK_Ladungstraeger_UG",
+			"metrics": {
+                "name": [
+                    "MARK Ladungsträger UG (haftungsbeschränkt)"
+                ],
+                "invoice": "<RE<N7>>"  
+            }
+        },
+        {
+            "name": "Stapler_Center_Pieckert_GmbH",
+			"metrics": {
+                "name": [
+                    "Stapler Center Pieckert GmbH"
+                ],
+                "invoice": "Rechnung  <RE<N2>-<N5>>"  
+            }
+        },
+        {
+            "name": "K_K_Palettenhandel",
+			"metrics": {
+                "name": [
+                    "K&K Palettenhandel"
+                ],
+                "invoice": "Rechnungsnummer: <N4>"  
+            }
+        },
+        {
+            "name": "Roehm_Nutzfahrzeuge_GmbH ",
+			"metrics": {
+                "name": [
+                    "Röhm Nutzfahrzeuge GmbH"
+                ],
+                "invoice": "Rechnung Rechnungs-Nr. <N7>"  
+            }
+        },
+        {
+            "name": "Fischer-Edelstahlrohre_GmbH",
+			"metrics": {
+                "name": [
+                    "1000539Kunden-Nr.:"
+                ],
+                "invoice": "Rechnung  <N10>"  
+            }
+        },
+        {
+            "name": "NT_Hafenspedition_GmbH ",
+			"metrics": {
+                "name": [
+                    "AlENSPEQITION amor"
+                ],
+                "invoice": "Rechnung-Nr: <N5>"  
+            }
+        },
+        {
+            "name": "DISGMAT_GmbH ",
+			"metrics": {
+                "name": [
+                    "DISGMAT GmbH"
+                ],
+                "invoice": "<R<N5>>"  
+            }
+        },
+        {
+            "name": "OpenAI",
+			"metrics": {
+                "name": [
+                    "OpenAI, LLC"
+                ],
+                "invoice": "Invoice number <WORD>"  
+            }
+        },
+        {
+            "name": "Perplexity_AI",
+			"metrics": {
+                "name": [
+                    "Perplexity AI, Inc"
+                ],
+                "invoice": "Rechnungsnummer <WORD>"  
+            }
+        },
+        {
+            "name": "Globe_Fuel_Cell_Systems_GmbH",
+			"metrics": {
+                "name": [
+                    "Globe Fuel Cell Systems GmbH"
+                ],
+                "invoice": "Rechnung: <WORD>"  
+            }
+        }
+        
+    ]
+}
