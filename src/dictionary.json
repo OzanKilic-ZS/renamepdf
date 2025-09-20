@@ -2258,7 +2258,45 @@
                 ],
                 "invoice": "Rechnung: <WORD>"  
             }
+        },
+        {
+            "name": "RENOLIT_SE",
+			"metrics": {
+                "name": [
+                    "RENOLIT"
+                ],
+                "invoice": "<N7>"  
+            }
+        },
+        {
+            "name": "Fischer_Mobel_GmbH",
+			"metrics": {
+                "name": [
+                    "Fischer Mobel GmbH"
+                ],
+                "invoice": "Dauermietrechnung Nr. <N8>"  
+            }
+        },
+        {
+            "name": "Landliebe_GmbH",
+			"metrics": {
+                "name": [
+                    "Landliebe GmbH"
+                ],
+                "invoice": "<N9>"  
+            }
+        },
+        {
+            "name": "BeA_GmbH",
+			"metrics": {
+                "name": [
+                    "BeA GmbH"
+                ],
+                "invoice": "Rechnung <<N3>/ <N8>>"  
+            }
         }
+        
+        
         
     ]
 }
