@@ -7,6 +7,9 @@ import java.io.FileWriter;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.Reader;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -15,6 +18,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
+import java.util.logging.StreamHandler;
+
 import org.apache.pdfbox.Loader;
 import org.apache.pdfbox.cos.COSName;
 import org.apache.pdfbox.pdmodel.PDDocument;
@@ -23,7 +29,9 @@ import org.apache.pdfbox.pdmodel.PDPageTree;
 import org.apache.pdfbox.pdmodel.PDResources;
 import org.apache.pdfbox.pdmodel.graphics.PDXObject;
 import org.apache.pdfbox.text.PDFTextStripper;
+
 import java.awt.image.BufferedImage;
+import java.util.logging.ConsoleHandler;
 
 import com.google.gson.Gson;
 import com.zs.dto.Company;
@@ -45,14 +53,17 @@ public class App
     private static PDFTextStripper pdfTextStripper = new PDFTextStripper();
     private static final Logger logger = Logger.getLogger(App.class.getName());
 
+    private static String sPATH;
+    private static final String SEPARATOR = FileSystems.getDefault().getSeparator();
 
-    public static void main( String[] args ) throws SecurityException, FileNotFoundException, IOException
+    public static void main( String[] args ) throws SecurityException, FileNotFoundException, IOException, URISyntaxException
     {   
+        sPATH = getRootPath(App.class);
+
         Logger.getLogger("org.apache").setLevel(java.util.logging.Level.OFF);
 
         // Create FileHandler and ConsoleHandler
-        FileHandler fileHandler = new FileHandler("C:\\batch\\application.log");
-        
+        FileHandler fileHandler = new FileHandler("application.log");
         fileHandler.setFormatter(new MyFormatter());
             
         // Add handlers to the logger
@@ -313,12 +324,19 @@ public class App
 
     public static String extractTextFromImage(BufferedImage image) {
         Tesseract tesseract = new Tesseract();
-        tesseract.setDatapath("C:\\Users\\o.kilic\\AppData\\Local\\Tesseract-OCR\\tessdata"); // Pfad zu den Tesseract-Trainingsdaten
+        tesseract.setDatapath(sPATH + SEPARATOR + "Batch\\Programme\\Tesseract-OCR\\tessdata"); // Pfad zu den Tesseract-Trainingsdaten
         try {
             return tesseract.doOCR(image);
         } catch (TesseractException e) {
             System.err.println("Fehler bei der Texterkennung: " + e.getMessage());
             return null;
         }
+    }
+
+     public static String getRootPath(Class clazz) throws URISyntaxException {
+        URL url = clazz.getProtectionDomain().getCodeSource().getLocation();
+        String sURI = Paths.get(url.toURI()).toString();
+        sURI = sURI.substring(0, sURI.indexOf("Batch"));
+        return sURI;
     }
 }

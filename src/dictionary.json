@@ -530,6 +530,15 @@
 			"name": "Reinert_Kunststofftechnik_GmbH",
 			"metrics": {
                 "name": [
+                    "REINERT Kunststofftechnik GmbH"
+                ],
+                "invoice": "Rechnung Nr.  <N6>"
+            }
+		},
+        {
+			"name": "Reinert_Kunststofftechnik_GmbH",
+			"metrics": {
+                "name": [
                     "Reinert Kunststofftechnik GmbH"
                 ],
                 "invoice": "Rechnung Nr.  <N6>"
@@ -888,6 +897,15 @@
                     "MSG GmbH"
                 ],
                 "invoice": "Rechnungsnummer: <N6>"
+            }
+        },
+        {
+            "name": "MSG_GmbH",
+			"metrics": {
+                "name": [
+                    "MSG GmbH"
+                ],
+                "invoice": "Rechnung <RE<N6>>" 
             }
         },
         {
@@ -2080,6 +2098,15 @@
             }
         },
         {
+            "name": "PPS_Service",
+			"metrics": {
+                "name": [
+                    "PPS Service"
+                ],
+                "invoice": "Rechnung  <<N3> - <N4> \\? <N3>- <N3>>"  
+            }
+        },
+        {
             "name": "LYRECO_Deutschland_GmbH",
 			"metrics": {
                 "name": [
@@ -2294,9 +2321,204 @@
                 ],
                 "invoice": "Rechnung <<N3>/ <N8>>"  
             }
+        },
+        {
+            "name": "TAKO_GmbH",
+			"metrics": {
+                "name": [
+                    "TAKO GmbH"
+                ],
+                "invoice": "Rechnungsnummer <N3>" 
+            }
+        },
+        {
+            "name": "Karl_Wohllaib_GmbH",
+			"metrics": {
+                "name": [
+                    "Karl Wohllaib GmbH"
+                ],
+                "invoice": "R E C H N U N G NR. <N6>" 
+            }
+        },
+        {
+            "name": "Karl_Wohllaib_GmbH",
+			"metrics": {
+                "name": [
+                    "Karl Wohllaib GmbH"
+                ],
+                "invoice": "R E C H N U N G NR. <N6>" 
+            }
+        },
+        {
+            "name": "Cargoways_Logistik_Transport_GmbH",
+			"metrics": {
+                "name": [
+                    "Cargoways Logistik & Transport GmbH"
+                ],
+                "invoice": "Firma Rechnung <N7>" 
+            }
+        },
+        {
+            "name": "BaKu_Cargo_Solution_eK",
+			"metrics": {
+                "name": [
+                    "BaKu cargo solution e.K."
+                ],
+                "invoice": "<RE<N4>>" 
+            }
+        },
+        {
+            "name": "ATC_Waldenburg_GmbH",
+			"metrics": {
+                "name": [
+                    "ATC Waldenburg GmbH"
+                ],
+                "invoice": "Rechnung <RG<N8>>" 
+            }
+        },
+        {
+            "name": "BTE_BiegeTechnik_Engineering_GmbH",
+			"metrics": {
+                "name": [
+                    "BTE BiegeTechnik-Engineering GmbH"
+                ],
+                "invoice": "Rechnung Nr. <N6>" 
+            }
+        },
+        {
+            "name": "Paletten_Schneider_GmbH",
+			"metrics": {
+                "name": [
+                    "Paletten Schneider GmbH"
+                ],
+                "invoice": "Rechnungs-Nr.: <N9>" 
+            }
+        },
+        {
+            "name": "Holz_Reich",
+			"metrics": {
+                "name": [
+                    "Holz-Reich"
+                ],
+                "invoice": "RECHNUNG Nr. <<N4>-<N2>>" 
+            }
+        },
+        {
+            "name": "PGS_ULLU_PALETTEN_GMBH",
+			"metrics": {
+                "name": [
+                    "PGS ULLU PALETTEN GMBH"
+                ],
+                "invoice": "<N6>" 
+            }
+        },
+        {
+            "name": "Kompas_Spedygcja_Sp",
+			"metrics": {
+                "name": [
+                    "Kompas Spedycja Sp."
+                ],
+                "invoice": "INVOICE NO <<N4>/<N2>/<N4>>" 
+            }
+        },
+        {
+            "name": "Kompas_Spedygcja_Sp",
+			"metrics": {
+                "name": [
+                    "Kompas Spedycja Sp."
+                ],
+                "invoice": "INVOICE NO <<N2>/<N2>/<N4>>" 
+            }
+        },
+        {
+            "name": "Kompas_Spedygcja_Sp",
+			"metrics": {
+                "name": [
+                    "Kompas Spedycja Sp."
+                ],
+                "invoice": "INVOICE NO <<N3>/<N2>/<N4>>" 
+            }
+        },
+        {
+            "name": "Kompas_Spedygcja_Sp",
+			"metrics": {
+                "name": [
+                    "NIP: PL9532637524"
+                ],
+                "invoice": "INVOICE NO <<N3>/<N2>/<N4>>" 
+            }
+        },
+        {
+            "name": "Kompas_Spedycja_Sp",
+			"metrics": {
+                "name": [
+                    "Kompas Spedygcja Sp."
+                ],
+                "invoice": "INVOICE NO <<N4>/<N2>/<N4>>" 
+            }
+        },
+        {
+            "name": "Tecklaser_GmbH",
+			"metrics": {
+                "name": [
+                    "Tecklaser GmbH"
+                ],
+                "invoice": "Rechnung Nr. <<N4>-<N4>>" 
+            }
+        },
+        {
+            "name": "Ruhrpal_Paletten_Logistik_GmbH",
+			"metrics": {
+                "name": [
+                    "Ruhrpal Paletten-Logistik GmbH"
+                ],
+                "invoice": "Sammelrechnung Nr. <N6>" 
+            }
+        },
+        {
+            "name": "VATTER_GMBH",
+			"metrics": {
+                "name": [
+                    "VATTER GMBH"
+                ],
+                "invoice": "SON <N3>ZS Palettenservice GmbH" 
+            }
+        },
+        {
+            "name": "Die_Leoparden_GmbH",
+			"metrics": {
+                "name": [
+                    "Die Leoparden GmbH"
+                ],
+                "invoice": "Rechnung <RE<N4>>" 
+            }
+        },
+        {
+            "name": "Ferd_Haecker_GmbH",
+			"metrics": {
+                "name": [
+                    "Ferd. Haecker GmbH"
+                ],
+                "invoice": "Rechnung Nr. <VRE-<N6>>" 
+            }
+        },
+        {
+            "name": "Kögel_Trailer_GmbH",
+			"metrics": {
+                "name": [
+                    "Kögel Trailer GmbH"
+                ],
+                "invoice": "<N8>" 
+            }
+        },
+        {
+            "name": "Duvenbeck_Kraftverkehr_GmbH",
+			"metrics": {
+                "name": [
+                    "Duvenbeck Kraftverkehr GmbH"
+                ],
+                "invoice": "<<N8> / <N2>.<N2>.<N4>>" 
+            }
         }
-        
-        
-        
     ]
 }
